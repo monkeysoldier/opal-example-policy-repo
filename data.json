@@ -31,7 +31,7 @@
     "zyf": {
       "roles": ["employee", "billing"],
       "location": {
-        "country": "Uk",
+        "country": "US",
         "ip": "8.8.8.8"
       }
     }
